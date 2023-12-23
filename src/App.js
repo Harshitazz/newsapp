@@ -14,8 +14,8 @@ export default class App extends Component {
           <Navbar />
           <Routes>
             <Route
-              exact
-              path="/"
+              
+              path="/newsapp-react"
               element={
                 <News
                   key="general"
